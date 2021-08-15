@@ -1,0 +1,35 @@
+{
+    "name": "Aerith #10",
+    "desription": "Aerith is the last of the Cetra, an ancient race with powerful magical abilities, and so the Shinra Electric Power Company hunts her throughout her life, seeking to exploit her powers. She meets Cloud Strife in Midgar, and the two become close, leading her to join his quest to fight Shinra and hunt down Sephiroth. Aerith is upbeat, carefree, and joyful, being flirtatious towards Cloud and compassionate towards others.",
+    "image": "https://ipfs.io/ipfs/Qmc9QRq9oauQUgS7KTM4SmCRWYikNE7j14Rd2PCVaBGtvE?filename=IMG_5225.PNG",
+    "attributes": [
+        {
+            "trait_type": "Strength",
+            "value": 0
+        },
+        {
+            "trait_type": "Magic",
+            "value": 0
+        },
+        {
+            "trait_type": "Vitality",
+            "value": 0
+        },
+        {
+            "trait_type": "Spirit",
+            "value": 0
+        },
+        {
+            "trait_type": "Luck",
+            "value": 0
+        },
+        {
+            "trait_type": "Speed",
+            "value": 0
+        },
+        {
+            "trait_type": "Level",
+            "value": 0
+        }
+    ]
+}
